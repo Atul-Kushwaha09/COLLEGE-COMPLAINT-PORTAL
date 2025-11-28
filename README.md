@@ -47,34 +47,6 @@ College-Complaint-Portal/
 │── README.md
 
 
-
-
-## 🚀 How to Run the Project
-
-### **1️⃣ Clone the repository**
-```bash
-git clone https://github.com/your-username/college-complaint-portal.git
-2️⃣ Open frontend
-Just open the .html files in any browser.
-
-
-node server.js
-For Django:
-
-bash
-Copy code
-python manage.py runserver
-🖼️ Screenshots
-<img width="1904" height="903" alt="Screenshot 2025-11-29 004942" src="https://github.com/user-attachments/assets/69307730-2d85-4af8-94e1-ed09db840527" />
-
-
-pgsql
-Copy code
-index-page.png  
-login-page.png  
-register-page.png  
-complaint-page.png  
-admin-dashboard.png  
 🎯 Objectives
 Provide fast and transparent complaint resolution
 
@@ -96,8 +68,8 @@ Department-based complaint routing
 Analytics dashboard for admin
 
 👨‍💻 Author
-Your Name (change this)
-GitHub: https://github.com/your-username
+ATUL KUSHWAHA
+GitHub: https://github.com/Atul-Kushwaha09
 
 📜 License
 This project is open-source under the MIT License.
