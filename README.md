@@ -65,7 +65,8 @@ bash
 Copy code
 python manage.py runserver
 🖼️ Screenshots
-(Add your images here)
+<img width="1904" height="903" alt="Screenshot 2025-11-29 004942" src="https://github.com/user-attachments/assets/69307730-2d85-4af8-94e1-ed09db840527" />
+
 
 pgsql
 Copy code
